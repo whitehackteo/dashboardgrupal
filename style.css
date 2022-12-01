@@ -469,6 +469,15 @@ h1 {
     transition: transform .3s ease;
   } 
   
+  .canvas{
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+} 
+  
   .contenedor {
 	width: 90%;
 	max-width: 1000px;
